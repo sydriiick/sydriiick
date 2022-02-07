@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sydriiick
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Django Web Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently using Django Web Framework
 
 <!---
 sydriiick/sydriiick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
